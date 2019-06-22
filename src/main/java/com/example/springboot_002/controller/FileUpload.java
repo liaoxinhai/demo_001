@@ -25,7 +25,7 @@ public class FileUpload {
     private static final Logger logger = LoggerFactory.getLogger(FileUpload.class);
 
     public FileUpload() {
-        logger.info("-----这里是文件上传11-----");
+        logger.info("-----这里是文件上传11111-----");
     }
 
 
