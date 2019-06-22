@@ -18,10 +18,14 @@ import java.io.IOException;
 public class FileUpload {
 
 
+
+
+
+
     private static final Logger logger = LoggerFactory.getLogger(FileUpload.class);
 
     public FileUpload() {
-        logger.info("-----这里是文件上传-----");
+        logger.info("-----这里是文件上传11-----");
     }
 
 
